@@ -1,0 +1,13 @@
+:root {
+    --violet: hsl(257, 40%, 49%);
+    --headings-font: 'Poppins', sans-serif;
+    --body-font: 'Open Sans', sans-serif;
+    
+    font-size: 16px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
